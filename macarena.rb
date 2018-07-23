@@ -23,11 +23,11 @@ puts "Step 5: Place your right hand on your left shoulder."
 # Step 6: FIXME
 puts "Step 6: Place your left hand on your right shoulder."
 
-# Step 6: FIXME
-puts "Step 6: Bring your right hand around to the back of your head."
-
 # Step 7: FIXME
 puts "Step 7: Bring your right hand around to the back of your head."
 
 # Step 8: FIXME
-puts "Step 8: The Last Step"
+puts "Step 8: Bring your left hand up and around to the back of your head."
+
+# Step 9: FIXME
+puts "Step 9: The Last Step"
